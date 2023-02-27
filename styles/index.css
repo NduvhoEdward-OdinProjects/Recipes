@@ -1,0 +1,18 @@
+*{
+    background-color: rgb(19, 18, 18);
+    color: aquamarine;
+}
+.centered{
+    text-align: center;
+}
+h1{
+    color: rgb(121, 61, 61);
+}
+ul{
+    list-style: none;
+}
+li a{
+    text-decoration: none;
+    font-size: 24px;
+}
+
